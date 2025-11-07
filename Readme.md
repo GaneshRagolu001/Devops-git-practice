@@ -40,7 +40,7 @@ This is a basic HTML webpage that displays personal details such as name, roll n
 Example:
 
 ```md
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](https://github.com/GaneshRagolu001/Devops-git-practice/blob/main/screenshot.png)
 ```
 
 ---
